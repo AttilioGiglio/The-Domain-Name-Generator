@@ -4,9 +4,9 @@ document.querySelector("#btn").addEventListener("click", () => {
 document.querySelector("#name").innerHTML = domainName();
 });
 
-let pronoun = ['the','this','that'];
-let adj = ['loose','swole','green'];
-let noun = ['giant','dog','goose'];
+let pronoun = ['the','this','our'];
+let adj = ['great','big','green'];
+let noun = ['jogger','dog','tree'];
     
 
 function domainName (){
